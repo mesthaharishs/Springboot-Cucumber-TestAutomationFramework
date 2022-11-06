@@ -11,7 +11,7 @@ Spring Boot Cucumber Test Automation Framework for Selenium, Rest Assured and Ap
 
 
 ## Building Framework
-- `mvn clean install
+- `mvn clean install`
 
 ## Execute Test
 ### Command Line Method
